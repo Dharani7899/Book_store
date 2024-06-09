@@ -1,0 +1,33 @@
+ul{
+    width:700px;
+    margin:auto;
+    border:1px solid lightgreen;
+    background-color:lightgreen;
+     
+}
+ul li{
+    display:inline-block;
+    padding:19px;
+    color:black;
+}
+h1{
+    color:blue;
+}
+#p{
+    color:black;
+}
+#summ{
+    margin:auto;
+    border:1px solid rgb(79, 194, 232);
+    background-color:rgb(79, 194, 232);
+}
+#b{
+    border-color: yellowgreen;
+    color:red;
+}
+div{
+    width:700px;
+    margin:auto;
+    background-color: black;
+
+}
